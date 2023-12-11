@@ -15,9 +15,9 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "pestphp/pest": "^2.0",
-        "pestphp/pest-plugin": "^1.0",
-        "psr/http-message": "^1.0",
-        "webonyx/graphql-php": ">=14"
+        "pestphp/pest-plugin": "^2.0",
+        "psr/http-message": "^2.0",
+        "webonyx/graphql-php": ">=15"
     },
     "autoload": {
         "psr-4": {
